@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424882188297",
+    "project_id": "txt2-64909",
+    "storage_bucket": "txt2-64909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424882188297:android:4df9f6056f4ac3aae8c8d8",
+        "android_client_info": {
+          "package_name": "com.sangaihte.txt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424882188297-is3hokv1vhg46ouc5qqr09bgh70aaln6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1-v42gp-GVMo6iRKl1V6UANMKRMqiJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424882188297-is3hokv1vhg46ouc5qqr09bgh70aaln6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
